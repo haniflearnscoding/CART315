@@ -38,3 +38,5 @@ I made a pretty simple platformer.
 
 It's nothing impressive, but I got to be more familiar with the Unity interface and the workflow of adding a **Sprite Renderer**, **RigidBody** or a **Box Collider**. I think as I spend more time getting familiar with the workflow I can get my ideas flowing a lot easier. I think with the time I spent on this it was a decent exploration of the workflow using Unity. Just need to start getting more creative and starting these explorations a little earlier. 
 
+Uhh I'm not too sure how I'm supposed to push my Unity Project on Github, I'll ask the professor in class today and submit the process journal. 
+
