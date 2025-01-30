@@ -22,3 +22,7 @@ Hmm so people found it the game more experimental more than fun. I guess that wa
 
 _italics_
 
+## Design Journal: Exploration Prototype 1
+
+Okay bit of a late start on this as I was a little confused on the deadlines on moodle. I was able to follow along in class pretty well, but I do have some errors in my script. I think a good place to start would be to debug my code and have a working prototype to start off with. 
+
