@@ -26,3 +26,15 @@ _italics_
 
 Okay bit of a late start on this as I was a little confused on the deadlines on moodle. I was able to follow along in class pretty well, but I do have some errors in my script. I think a good place to start would be to debug my code and have a working prototype to start off with. 
 
+Okay small syntax error that I had not noticed before. Need to get more familiar with the c# syntax if I want to avoid unnecessary time debugging. 
+
+Okay I decided to go find a tutorial that I can follow. I feel like that's often a good starting point for me when using a new software that I might not be as familiar with. I landed on this tutorial.
+
+[https://www.youtube.com/watch?v=K1xZ-rycYY8&ab_channel=bendux]()
+
+I made a pretty simple platformer. 
+
+![This is a photo of my game](Media/Platformer.png)
+
+It's nothing impressive, but I got to be more familiar with the Unity interface and the workflow of adding a **Sprite Renderer**, **RigidBody** or a **Box Collider**. I think as I spend more time getting familiar with the workflow I can get my ideas flowing a lot easier. I think with the time I spent on this it was a decent exploration of the workflow using Unity. Just need to start getting more creative and starting these explorations a little earlier. 
+
