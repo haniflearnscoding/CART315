@@ -40,3 +40,36 @@ It's nothing impressive, but I got to be more familiar with the Unity interface 
 
 Uhh I'm not too sure how I'm supposed to push my Unity Project on Github, I'll ask the professor in class today and submit the process journal. 
 
+## Design Journal: Exploration Prototype 2
+
+Okay finally went back the Pong game we made in class. Here are some thoughts after I played it a couple of times. 
+
+![GIF of PONG](Media/pong-ezgif.com-video-to-gif-converter.gif)
+
+The paddles move a little too quick. The ball is a little slow. The trajectory of the ball is predictable. Not sure is this is a good or bad thing. Does it make it less fun this way? Maybe prototyping here could help with some answers
+
+Technical points aside, I'm not sure I know how to approach this prototype. The first thought that comes to mind is Pippin's game. [https://pippinbarr.com/pongs/info/]()
+
+I guess since this is meant to be a prototyping class, approaching this game in the same spirit as Pippin's PONGS is not a terrible idea. I just feel as though this would only be fulfilling if I can get many iterations done. Let's try to get a head start today. 
+
+Let's brainstorm:
+
+* Invisible paddels
+* Invisible ball
+* Triangle shaped paddles
+* Multiple balls
+* Every time the ball spawns, Fetty Wap Again plays
+* Gravity ball
+* Paddle moves horizontally (each court)
+* HUGE paddle
+* Ball that leaves a trail
+* HUGE ball (ball gets bet bigger each time)
+* Fast ball (ball gets faster each time)
+
+
+
+
+
+
+
+
