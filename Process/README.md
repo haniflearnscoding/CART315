@@ -66,7 +66,12 @@ Let's brainstorm:
 * HUGE ball (ball gets bet bigger each time)
 * Fast ball (ball gets faster each time)
 
+Okay here are the following two itterations I worked on. 
 
+![GIF of PONG](Media/bigPONG-ezgif.com-video-to-gif-converter.gif)
+![GIF of PONG](Media/trailPONG-ezgif.com-video-to-gif-converter.gif)
+
+Learned a few things. I think iterating quickly and with little investment into anything other than the mechanic you're trying to explore is key. These prototype were not costly in time to make but made for great visual feedback for how small changes in parameters can change the feel of the game.  
 
 
 
