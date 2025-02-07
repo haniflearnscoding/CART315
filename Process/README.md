@@ -73,6 +73,30 @@ Okay here are the following two itterations I worked on.
 
 Learned a few things. I think iterating quickly and with little investment into anything other than the mechanic you're trying to explore is key. These prototype were not costly in time to make but made for great visual feedback for how small changes in parameters can change the feel of the game.  
 
+## Design Journal: Exploration Prototype 3
+
+Ok I thought maybe it'd be a good idea I start writing just to document the troubleshooting I've had to do for a little bit. Spent the past 20 mins trying to get the script to not give me a missing reference error, even though it was attached properly. Turns out since it was a Prefab, it had to be referenced in the Prefab for the script to link to the game object... What a waste of time. 
+
+Now time to figure why my ball script is not working. 
+
+Ok I'm stupid the ball script works I just had to press space. 
+
+Now time to figure out how to break the walls. 
+
+Ok I ended up searching for a block breaker game and ended up playing google's game. Gave me some solid ideas for fun game mechanics. Don't know how many I'll end up implementing. 
+
+This is so I remember where I left off for when I next work on this. 
+
+    if (other.gameObject.tag == "Brick")
+    {
+    // make pitch lower
+    blip.pitch = 1.25f;
+    blip.Play();
+    Destroy(gameObject);
+    SpeedCheck();
+    
+    }
+
 
 
 
