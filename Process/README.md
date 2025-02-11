@@ -97,6 +97,20 @@ This is so I remember where I left off for when I next work on this.
     
     }
 
+Ok got the bricks to destroy when ball makes contact with following:
+
+    if (other.gameObject.tag == "Brick")
+    {
+    blip.pitch = 1.25f;
+    blip.Play();
+    Destroy(other.gameObject); // ✅ This destroys the BRICK, not the ball
+    SpeedCheck();
+    }
+
+Hmm so let's see what the easiest first implementation I could do. 
+
+Ok how about I start with having a limited amount of balls you can have. Let's try that. 
+
 
 
 
