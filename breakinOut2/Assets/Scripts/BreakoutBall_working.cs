@@ -18,11 +18,11 @@ public class BreakoutBall_working : MonoBehaviour
     private bool gameRunning;
     public static int ballCount = 3; // Start with 3 balls
 
-    public GameObject gameOverScreen; // Assign in Inspector
+    //public GameObject gameOverScreen; // Assign in Inspector
 
     void Start()
     {
-        gameOverScreen.SetActive(false);
+       // gameOverScreen.SetActive(false);
         rb = GetComponent<Rigidbody2D>();
         Reset();
     }
@@ -37,37 +37,31 @@ public class BreakoutBall_working : MonoBehaviour
 
     private IEnumerator Launch()
     {
+        Debug.Log("Launch started");
         gameRunning = true;
         hDir = dirOptions[Random.Range(0, dirOptions.Length)];
         rb.linearVelocity = new Vector2(ballSpeed * hDir, -ballSpeed);
+        Debug.Log("Velocity after launch: " + rb.linearVelocity);
         yield return null;
     }
 
-    public void Reset()
-    {
-        ballCount--; // Decrement lives
-        Debug.Log("Balls left: " + ballCount);
 
-        if (ballCount <= 0)
-        {
-            GameOver();
-        }
-        else
-        {
-            rb.linearVelocity = Vector2.zero;
-            transform.position = new Vector2(0, 0);
-            gameRunning = false;
-        }
+    public void Reset() {
+        rb.linearVelocity = Vector2.zero;
+        ballSpeed = 2;
+        transform.position = new Vector2(0, 0);
+        gameRunning = false;
     }
 
-    private void GameOver()
+
+    /* private void GameOver()
     {
         Debug.Log("Game Over!");
         if (gameOverScreen != null)
         {
             gameOverScreen.SetActive(true); // Show Game Over UI
         }
-    }
+    }*/
     
     // if the ball goes out of bounds
     private void OnCollisionEnter2D(Collision2D other)
@@ -84,6 +78,7 @@ public class BreakoutBall_working : MonoBehaviour
             blip.pitch = 0.75f;
             blip.Play();
             SpeedCheck();
+            
         }
         if (other.gameObject.tag == "Brick")
         {
@@ -92,6 +87,9 @@ public class BreakoutBall_working : MonoBehaviour
             blip.Play();
             Destroy(other.gameObject);
             SpeedCheck();
+            
+            // increase size by 10%
+            //transform.localScale *= 1.1f;
             
         }
         

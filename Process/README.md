@@ -111,6 +111,17 @@ Hmm so let's see what the easiest first implementation I could do.
 
 Ok how about I start with having a limited amount of balls you can have. Let's try that. 
 
+## Design Journal: Exploration Prototype 4
+
+Ok last class got cancelled and it looks like we're supposed to keep working on our previous prototype. Kinda not feeling inspired by the lives system I was trying to make last time. I'd rather do some quick and dirty iterations and get the ball rolling instead. Let's see. 
+
+Holy fuck my game was broken again. Ideally I'd write some comments to figure this out a lot quicker. Ok base game works now.
+
+Ok below are some gifs comparing what the first game looked like and the iteration i was able to make. 
+
+![GIF of PONG](Media/breakinBIG-ezgif.com-video-to-gif-converter.gif)
+original game
+![GIF of PONG](Media/breakinout-ezgif.com-video-to-gif-converter.gif)
 
 
 
