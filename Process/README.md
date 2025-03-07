@@ -124,6 +124,32 @@ original game
 ![GIF of PONG](Media/breakinout-ezgif.com-video-to-gif-converter.gif)
 
 
+## Design Journal: Iterative Prototype 1
+
+### Ideas for the game
+
+Game types:
+
+* Branching narratives
+* Open world
+
+Art Styles: 
+
+* Pixel art and/or 8-bit music
+
+Game Examples:
+
+* Papers Please 
+* The Stanley Parable
+* Detroit: Become human (not the graphics, but the branching narrative)
+* The Legend of Zelda: Tears of the Kingdom
+
+It would be a good idea to do some "user research" on who would be best fit to play our game.  
+
+Ok after having a first sit down conversation with the team, we were able to get the big questions out of the way. The first thing I wanted to discuss is what expectations we had towards the project. I wanted to inquire about everyone's workload this semester and get an idea on how much time people were willing to spend on the project.
+
+After that out of the way, we discussed the different types of games we enjoy playing, what we liked about them and how we could integrate some of those features into our game. We were able to the division of labour and we're on our way to start the first few prototypes. 
+
 
 
 
