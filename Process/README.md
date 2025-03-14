@@ -151,5 +151,16 @@ Ok after having a first sit down conversation with the team, we were able to get
 After that out of the way, we discussed the different types of games we enjoy playing, what we liked about them and how we could integrate some of those features into our game. We were able to the division of labour and we're on our way to start the first few prototypes. 
 
 
+## Design Journal: Iterative Prototype 2
+
+Ok below is a few things team and I worked on. 
+
+![](Media/TSAPrototype1.gif)
+![](Media/Screenshot 2025-03-13 at 9.02.29 PM.png)
+![](Media/Screenshot 2025-03-13 at 9.02.36 PM.png)
+
+Ok working on getting the main loop of the game working. I'm working on Figma prototyping the flow of interactions in the game. My role has been to help with the UI of the game. There are times where the scenes feel like assets put together for the sake of having assets. Been trying to work with the team with finding the right balance of aesthetics and functionality. 
+
+Been really enjoying working on figma. More than just illustrator or photoshop some reasone. The workflow feels much more streamline to having an end product and the tools are similar across the plateforms that the transitions was easy. 
 
 
