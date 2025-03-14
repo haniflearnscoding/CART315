@@ -156,8 +156,8 @@ After that out of the way, we discussed the different types of games we enjoy pl
 Ok below is a few things team and I worked on. 
 
 ![](Media/TSAPrototype1.gif)
-![](Media/Screenshot 2025-03-13 at 9.02.29 PM.png)
-![](Media/Screenshot 2025-03-13 at 9.02.36 PM.png)
+![](Media/Screenshot%202025-03-13%20at%209.02.29 PM.png)
+![](Media/Screenshot%202025-03-13%20at%209.02.36 PM.png)
 
 Ok working on getting the main loop of the game working. I'm working on Figma prototyping the flow of interactions in the game. My role has been to help with the UI of the game. There are times where the scenes feel like assets put together for the sake of having assets. Been trying to work with the team with finding the right balance of aesthetics and functionality. 
 
