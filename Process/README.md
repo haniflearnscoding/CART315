@@ -163,4 +163,8 @@ Ok working on getting the main loop of the game working. I'm working on Figma pr
 
 Been really enjoying working on figma. More than just illustrator or photoshop some reasone. The workflow feels much more streamline to having an end product and the tools are similar across the plateforms that the transitions was easy. 
 
+## Design Journal: Iterative Prototype 3
+
+![](Media/iterative4.mov)
+
 
