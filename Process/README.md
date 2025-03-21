@@ -165,6 +165,26 @@ Been really enjoying working on figma. More than just illustrator or photoshop s
 
 ## Design Journal: Iterative Prototype 3
 
-![](Media/iterative4.mov)
+![](Media/iterative4-ezgif.com-video-to-gif-converter.gif)
+
+Above is the DEPORT button I prototype for our game. Placed it at the top as I could see this being an animation where it drops down for a certain condition. 
+
+We are starting to get in the process of the game where we actually have to be clear on what the game mechanics are. And it feels like the team has different understanding of how this might look. With each person presenting their pov, we were able to find some common ground after some back and forth. Here's a little summary:
+
+### DEPORT VS TERRORIST BUTTON
+
+Ok I initially went with the deport button because of my bias for papers please. But as I thought about the implications, I thought it well reflected the political climate of the USA that are trying to comment on with this game. 
+
+When discussing, a team member was more leaning towards a TERRORIST button, as they found the extreme nature of the word was more satirical in nature. I was not sold on the idea, but I then understood that their vision of the commentary was on the TSA itself after the events of 9/11. After understanding, I was more convinced on the idea. 
+
+Ok we discussed the implications of the stamps and the different buttons. I think where there was most friction was with the foreground and background of the conveyor belt scene. To give a TLDR, my teammates were more interest in a layout that made the background of same hierarchy as the foreground vs when prototyping I had more in mind a contrasting foreground and background. Below are the prototypes I'm talking about.  
+
+![](Media/Screenshot 2025-03-20 at 11.35.37 PM.png)
+
+![](Media/Screenshot 2025-03-20 at 11.38.22 PM.png)
+
+I appreciated the lower fidelity silhouette of people in line progressing through the TSA line. My teammates felt as though the inital prototype with the glasses was better as it better represented an airport. I was firm about my position of having the miniature line, but maybe having the solid green be an airport floor instead. With still a lot of pushback, we ended on wanting to do a more complete prototype of the glasses prototype with silhouettes of people passing by.
+
+I think it would be a good idea to also present a more complete prototype of what I wanted the background to look like. I am open-minded in making compromises and meet my teammates in the middle. However, my wish for the full game having different characters, branching narratives and interesting dialogue I think is best suited with a visual design that feels less like a web game. I need to tread lightly in working with the current art style as the clip art nature of the assets might make the game feel a little shallow. I have expressed this to my teammates, I just need to best work to find the middle ground in what suits everyone best. I do understand the want of making the game feel more satirical, but I keep pushing back on some of the design and aesthetic choices due to the concerns mentioned prior. To be continued! 
 
 
