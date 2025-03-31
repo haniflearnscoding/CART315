@@ -183,3 +183,11 @@ Ok we discussed the implications of the stamps and the different buttons. I thin
 I appreciated the lower fidelity silhouette of people in line progressing through the TSA line. My teammates felt as though the inital prototype with the glasses was better as it better represented an airport. I was firm about my position of having the miniature line, but maybe having the solid green be an airport floor instead. With still a lot of pushback, we ended on wanting to do a more complete prototype of the glasses prototype with silhouettes of people passing by.
 
 I think it would be a good idea to also present a more complete prototype of what I wanted the background to look like. I am open-minded in making compromises and meet my teammates in the middle. However, my wish for the full game having different characters, branching narratives and interesting dialogue I think is best suited with a visual design that feels less like a web game. I need to tread lightly in working with the current art style as the clip art nature of the assets might make the game feel a little shallow. I have expressed this to my teammates, I just need to best work to find the middle ground in what suits everyone best. I do understand the want of making the game feel more satirical, but I keep pushing back on some of the design and aesthetic choices due to the concerns mentioned prior. To be continued!
+
+## Design Journal: Iterative Prototype 4
+
+Ok writing this up after having met up with my team. Iterating at this moment from my end has slowed down. As we are reaching closer to deadlines for all classes, we are starting to find what features of the game are a bigger priority over others. This makes for iterating on a prototype have less incentive and we would rather cut our losses and focus on what matters most for the game.
+
+The other issue that has slowed down prototyping for me is having one main programmer in the team. Because we are tight on time for this deliverable, any limitations set by the programmer has to be respected because they are handling the final deliverable we will be submitting. Even if I wanted to iterate over a certain aspects of the project, I'm hesitant to do so if the asset does not get used due to coding challenges that come up in implementing it, that may keep delaying th e project.
+
+Hopefully more prototyping for the coming week. 
