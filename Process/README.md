@@ -191,3 +191,27 @@ Ok writing this up after having met up with my team. Iterating at this moment fr
 The other issue that has slowed down prototyping for me is having one main programmer in the team. Because we are tight on time for this deliverable, any limitations set by the programmer has to be respected because they are handling the final deliverable we will be submitting. Even if I wanted to iterate over a certain aspects of the project, I'm hesitant to do so if the asset does not get used due to coding challenges that come up in implementing it, that may keep delaying th e project.
 
 Hopefully more prototyping for the coming week. 
+
+## Design Journal: Iterative Prototype 5
+
+Ok below are some of the assets I worked on. 
+
+![](Media/finalAsset%208.png)
+![](Media/finalAsset%209.png)
+![](Media/finalAsset%2010.png)
+![](Media/finalAsset%2011.png)
+![](Media/Group 6.png)
+![](Media/Group 7.png)
+![](Media/Group 8.png)
+![](Media/Group 9.png)
+![](Media/Group 10.png)
+![](Media/Group 11.png)
+![](Media/Group 12.png)
+
+Ok I wanted to talk about the banned item list and how I feel like I've come around to the direction we are headed now with the game. As talked about in previous iterative prototypes, I had a hard time letting go of inspirations I had from Papers Please. 
+
+With these assets, I think its one of the first deviation from the initial style or theme I wanted to explore with the game. One of my main worries with the more humorous theme is that the game would look a little corny, that it would be diminished due to lighthearted theme. 
+
+I think with these assets I was able to establish a consistent design that steps away from a clip art-like look. However, I believe I was able to still keep within the lightheartedness of the game with the different titles, descriptions and confiscation reasons. Although it may not seem like an important part of design, building a lore behind a game comes from the user/gamer exploring the contents of the game such as descriptions. 
+
+Going into the last week of working on this project, I have reflected on how we could have landed on an art style that was more consistent earlier on. I think if we agreed earlier on to only making original art instead of using certain online tools for making assets, we could have maybe been a bit more consistent. I think working in teams more often when making games will help me better navigate these situations moving forward!
