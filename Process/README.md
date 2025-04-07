@@ -200,13 +200,13 @@ Ok below are some of the assets I worked on.
 ![](Media/finalAsset%209.png)
 ![](Media/finalAsset%2010.png)
 ![](Media/finalAsset%2011.png)
-![](Media/Group 6.png)
-![](Media/Group 7.png)
-![](Media/Group 8.png)
-![](Media/Group 9.png)
-![](Media/Group 10.png)
-![](Media/Group 11.png)
-![](Media/Group 12.png)
+![](Media/Group6.png)
+![](Media/Group7.png)
+![](Media/Group8.png)
+![](Media/Group9.png)
+![](Media/Group10.png)
+![](Media/Group11.png)
+![](Media/Group12.png)
 
 Ok I wanted to talk about the banned item list and how I feel like I've come around to the direction we are headed now with the game. As talked about in previous iterative prototypes, I had a hard time letting go of inspirations I had from Papers Please. 
 
